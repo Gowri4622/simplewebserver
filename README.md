@@ -65,6 +65,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![output](./static/img/11.png)
 
 
 ## RESULT:
+ Thus a simple webserver is developed to serve html pages and is hosted in the URL http://gowri.student.saveetha.in
